@@ -2,3 +2,4 @@ Maria: 5
 Andrey: 4
 Marcelo: 7
 Robson: 8
+João: 9
